@@ -8,7 +8,7 @@ header {
   margin-top: 0%;
 }
 .nav {
-  margin-left: 20%;
+  margin-left: 7%;
   margin-top: 4%;
 }
 ul {
@@ -16,16 +16,14 @@ ul {
 }
 li {
   display: inline-block;
+  font-size: 3rem;
+  padding: 1%;
+  
 }
-button {
-  background-color: rgb(255, 255, 255);
-  border-radius: 10px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 27px;
-}
+
 a {
   text-decoration: none;
-  color: rgb(29, 16, 143);
+  color: rgb(241, 240, 245);
 }
 
 img {
