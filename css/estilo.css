@@ -30,6 +30,9 @@ img {
     max-width: 100%;
 }
 
+.s-1{
+  margin-top: 2%;
+}
 .divPapa {
   display: grid;
   margin-top: 5%;
