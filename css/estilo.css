@@ -6,7 +6,7 @@
 
 body {
   background-image: url("https://images.pexels.com/photos/1171719/pexels-photo-1171719.jpeg?auto=compress&cs=tinysrgb&w=1600");
-  margin-left: 0;
+  margin-left: 0%;
 }
 
 .nav {
@@ -46,7 +46,7 @@ h1 {
 h2 {
   text-align: center;
   color: rgb(255, 255, 255);
-  margin-top: 2%;
+
   
 }
 
@@ -75,8 +75,11 @@ p {
   margin-top: 4%;
 }
 .rico {
+  display: flex;
+  justify-content: center;
   margin-left: 2%;
   margin-top: 5%;
+ 
 }
 
 .formbox {
